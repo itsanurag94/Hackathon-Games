@@ -1,0 +1,7 @@
+Just run the .html file and play the game.
+
+Folder has css, javascript and html file.
+
+Form words out of the table and click on check to find out whether you have guessed a correct word or not.
+
+As of now, the dictionary has less number of Hindi words, so it may happen that you guess some word and it shows that the guess is wrong.
